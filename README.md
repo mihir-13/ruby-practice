@@ -1,12 +1,12 @@
 ## RUBY is server side scripting language
 
 ### Prerequisite
-[ ] Node
-[ ] Java
-[ ] Ruby
-[ ] Rails
-[ ] PostgreSQL
-[ ] Git
+- [ ] Node
+- [ ] Java
+- [ ] Ruby
+- [ ] Rails
+- [ ] PostgreSQL
+- [ ] Git
 
 
 ## Installation of Ruby:
